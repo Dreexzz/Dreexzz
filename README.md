@@ -9,7 +9,7 @@ Olá meu nome é André e estou apredendo cada vez mais!!
 
 ## Habilidades
 ![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=fff)
-![Java](https://img.shields.io/badge/java-100000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/java-100000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PL](https://img.shields.io/badge/PL%2FSQL-fff?style=for-the-badge&logo=oracle&logoColor=fff&labelColor=100000&color=100000)
 ![HTML5](https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=fff)
 
