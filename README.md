@@ -9,10 +9,8 @@ Olá meu nome é André e estou apredendo cada vez mais!!
 
 ## Habilidades
 ![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=fff)
-
 ![PL](https://img.shields.io/badge/PL%2FSQL-fff?style=for-the-badge&logo=oracle&logoColor=fff&labelColor=100000&color=100000)
 ![HTML5](https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javascript&logoColor=fff)
-![Vscode](https://img.shields.io/badge/Vscode-100000?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/GIT-100000?style=for-the-badge&logo=git&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-100000?style=for-the-badge&logo=sqlite&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=css3&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-100000?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/GIT-100000?style=for-the-badge&logo=git&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-100000?style=for-the-badge&logo=sqlite&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javascript&logoColor=fff)
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dreexzz&theme=transparent&bg_color=000&border_color=ffff&show_icons=true&icon_color=ffff&title_color=ffff&text_color=FFF)
