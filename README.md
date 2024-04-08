@@ -1,6 +1,8 @@
 
 # Dreexzz
-Olá meu nome é André e estou apredendo cada vez mais!!
+E aí! Então, tô na reta final da faculdade de TI, me especializando em análise e desenvolvimento de sistemas. Mas, sabe, não me contento só com o que rola na sala de aula. Tô sempre buscando mais conhecimento, fazendo um monte de cursos online na Udemy e na DIO. E não é só teoria, não! Também tô sempre metido em projetinhos práticos, tipo criar APIs.
+Quanto às habilidades, mando ver em Python, JavaScript, CSS, HTML e SQL. E não dá pra esquecer do GitHub e do Git, né? Tô sempre dando uns commits por lá, aprendendo a lidar com versionamento e tudo mais.
+Enfim, tô me preparando pra encarar o mercado de TI de frente, cheio de energia e pronto pra botar a mão na massa!
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in//andré-fernandes-bessa/)
